@@ -44,9 +44,7 @@ Skills: C# / HTML / CSS
 ## Things I am passionate about
 
 - 📙 I am currently producing content on my <a href= "https://medium.com/@4Evens">medium</a> account related to software. 
-- 💗 I love my mistakes...
-- 🍰 By the way, I do not want to go without saying that I am a cheesecake master 🥰
-- 🌵 I like cactus. I am the older sister of my cacti...
+
 
 
 ## A coffee >>> :coffee:
