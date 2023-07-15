@@ -61,7 +61,7 @@ Skills: C# / HTML / CSS
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F4Evens&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=4Evens&show_icons=true alt=4Evens /> </p>
 
-            \t [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4Evens)](https://git.io/streak-stats)
+     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4Evens)](https://git.io/streak-stats)
 
 
 <!--
